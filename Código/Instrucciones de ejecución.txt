@@ -1,0 +1,8 @@
+# Instrucciones de Ejecución
+
+## Requisitos Previos
+1. Python 3.8 o superior
+2. SQLite3 (para la base de datos)
+
+## Pasos para la ejecución
+1. Ejectuar el archivo `main.py` con Python 3.8 o superior
